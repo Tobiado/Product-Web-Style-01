@@ -1,4 +1,4 @@
-# Product_Web_Style_01
+# Product Web Style 01
 A simple web page style, so you need to change text, files and information acording to your personal needs.
 
 Insert text, header, title or contact information via places that read "Insert header/Insert text/Insert email ...
